@@ -1,0 +1,6 @@
+c:\users\nodejs\documents\visual studio 2017\Projects\examenMeli\examenMeli\bin\Debug\examenMeli.exe.config
+c:\users\nodejs\documents\visual studio 2017\Projects\examenMeli\examenMeli\bin\Debug\examenMeli.exe
+c:\users\nodejs\documents\visual studio 2017\Projects\examenMeli\examenMeli\bin\Debug\examenMeli.pdb
+c:\users\nodejs\documents\visual studio 2017\Projects\examenMeli\examenMeli\obj\Debug\examenMeli.csprojResolveAssemblyReference.cache
+c:\users\nodejs\documents\visual studio 2017\Projects\examenMeli\examenMeli\obj\Debug\examenMeli.exe
+c:\users\nodejs\documents\visual studio 2017\Projects\examenMeli\examenMeli\obj\Debug\examenMeli.pdb
